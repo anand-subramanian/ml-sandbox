@@ -1,8 +1,8 @@
 name: tensorflow-projects
 dependencies: 
 - python=2.7.13
-- jupyter=1.0.0
-- numpy=1.13.3
-- pandas=0.22.0
-- matplotlib=2.1.0
-- ipykernel=4.6.1 
+- jupyter
+- numpy
+- pandasd
+- matplotlib
+- ipykernel 

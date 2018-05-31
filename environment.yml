@@ -7,5 +7,4 @@ dependencies:
 - matplotlib
 - ipykernel
 - scikit-learn
-- xgboost
 - tensorflow 
